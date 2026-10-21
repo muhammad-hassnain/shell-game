@@ -1,4 +1,4 @@
-# The Castle Quest: A Graded Shell Adventure
+# The Castle Quest: A Shell Adventure
 
 ## Setup
 
